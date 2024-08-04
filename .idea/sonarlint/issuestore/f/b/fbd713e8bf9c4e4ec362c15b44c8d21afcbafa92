@@ -1,0 +1,10 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÂÕ‹8Î¾™ë2J$e6de488a-010b-4702-bcf2-17a7fe1ef5e9
+š
+java:S1104"RMake driver a static final constant or non-public and provide accessors if needed.(ÜçÁÈûÿÿÿÿ8Î¾™ë2J$10120b2a-3597-4072-92eb-84bce89b1334
+t
+java:S1444",Make this "public static driver" field final(ÜçÁÈûÿÿÿÿ8Î¾™ë2J$fdcb80d2-9e99-45c2-8206-853d49617eb0
+	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Î¾™ë2J$6b8c7556-a5de-4ce7-ac29-bb50093608e9
+}
+java:S1118":Add a private constructor to hide the implicit public one.(øÅÖõ8Î¾™ë2J$0d6b5077-caca-4bdb-9a38-80894d9fc954
+m	java:S1060"+Replace this use of System.out by a logger.(íÍÉ8Ş¾™ë2J$58f1fec8-a6e2-4026-9a22-61148714aad1

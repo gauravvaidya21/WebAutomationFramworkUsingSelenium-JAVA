@@ -1,0 +1,12 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆÑ”ªûÿÿÿÿ8‡¹õ2J$8d69bd31-ccf2-4468-9c13-052087907ace
+‡
+java:S2259"?A "NullPointerException" could be thrown; "p" is nullable here.(ÈÀ»îøÿÿÿÿ8‰¹õ2J$ce4fd4a9-23de-419e-a16c-1b613fca04c0
+•
+java:S2259"MA "NullPointerException" could be thrown; "fileInputStream" is nullable here.(Ûû¼­øÿÿÿÿ8‰¹õ2J$3d3945cc-48cd-48d6-bbfe-aacef931a4e0
+Ä
+java:S1186	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼ë³ø8‹¹õ2J$4f05bde5-dec9-47f7-9d5d-a6f009cda2d2
+`
+java:S1118	"Hide this public constructor.(¼ë³ø8Œ¹õ2J$8685b21f-1bb1-42ab-bd4d-d57598accb1b
+r
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8“¹õ2J$18c4f6e6-ad0c-4d51-ac6e-9fe023f19117

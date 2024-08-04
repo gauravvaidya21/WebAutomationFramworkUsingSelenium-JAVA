@@ -1,0 +1,16 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(“â¨¯üÿÿÿÿ8é¿ëÁ2J$b0da9ef7-fbc1-411e-b0ea-53dc0a1272a8
+˜	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôŞÖ°ıÿÿÿÿ8é¿ëÁ2J$5c76234d-d9a3-45a8-94ce-27d700ec3fc3
+“	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂµìÆ8ê¿ëÁ2J$ece37e7b-0bef-4a32-8a61-4cf80b34f13b
+˜	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œûœêúÿÿÿÿ8ê¿ëÁ2J$a4516ac4-2091-4ef9-8f68-5866fca6920e
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—‘Àò8ë¿ëÁ2J$33209a28-8da4-4644-af46-bf68c6bf56de
+	java:S112""FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ñ¿ëÁ2J$9415f868-5343-4679-88a4-ec2ce92f6758
+š	java:S116"XRename this field "error_message" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔêØï8õ¿ëÁ2J$7da44366-cbe1-48ff-be92-664d89ad0fc7
+–
+java:S1854'"NRemove this useless assignment to local variable "error_msg_attribute_dataqa".(Œûœêúÿÿÿÿ8ˆÀëÁ2J$3cca9508-6ec4-408b-9c14-c85222cbd3fa
+¡
+java:S2142!"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8“ÀëÁ2J$9ec9584b-d8d1-4201-8998-4726025a3f03
+‡
+java:S1481'"?Remove this unused "error_msg_attribute_dataqa" local variable.(Œûœêúÿÿÿÿ8 ÀëÁ2J$49a3f332-47b5-47d0-a98c-665b6159c94d
+t
+java:S1068"1Remove this unused "error_message" private field.(ÔêØï8£ÀëÁ2J$dcba7704-6d4b-4784-b359-1537733efdcf
